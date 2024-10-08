@@ -14,8 +14,8 @@
 <body>
 
 <header>
-     <title>Enzo Gonzales - Analista de Datos</title>
-    <h1>¡Hola! Soy Enzo Gonzales</h1>
+     <title></title>
+    <h1>Enzo Gonzales - Analista de Datos</h1>
 </header>
 
 <div>
